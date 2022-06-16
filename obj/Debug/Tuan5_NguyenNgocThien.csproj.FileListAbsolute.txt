@@ -1,0 +1,166 @@
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Tuan5_NguyenNgocThien.dll.config
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Tuan5_NguyenNgocThien.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Tuan5_NguyenNgocThien.pdb
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\csc.exe
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\csc.exe.config
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\csc.rsp
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\csi.exe
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\csi.exe.config
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\csi.rsp
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.AppContext.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Collections.Immutable.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Console.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Globalization.Calendars.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.Compression.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Net.Http.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Net.Sockets.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.ValueTuple.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.XPath.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\vbc.exe
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\vbc.exe.config
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\vbc.rsp
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe.config
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Antlr3.Runtime.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Microsoft.Web.Infrastructure.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Newtonsoft.Json.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Helpers.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Mvc.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Optimization.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Razor.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Deployment.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Razor.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\WebGrease.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Helpers.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Mvc.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Optimization.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.Razor.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Deployment.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Razor.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Newtonsoft.Json.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Antlr3.Runtime.pdb
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.csproj.AssemblyReference.cache
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.csproj.CoreCompileInputs.cache
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.csproj.CopyComplete
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.pdb
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\PagedList.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\PagedList.Mvc.dll
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\PagedList.xml
+C:\Chest\TaiLieuHutech\ThucHanhWeb\Tuan5_NguyenNgocThien\bin\PagedList.Mvc.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Tuan5_NguyenNgocThien.dll.config
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Tuan5_NguyenNgocThien.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Tuan5_NguyenNgocThien.pdb
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\csc.exe
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\csc.exe.config
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\csc.rsp
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\csi.exe
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\csi.exe.config
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\csi.rsp
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.AppContext.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Collections.Immutable.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Console.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Globalization.Calendars.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.Compression.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Net.Http.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Net.Sockets.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Reflection.Metadata.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.ValueTuple.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.XPath.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\vbc.exe
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\vbc.exe.config
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\vbc.rsp
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe.config
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Antlr3.Runtime.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Microsoft.Web.Infrastructure.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Newtonsoft.Json.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\PagedList.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\PagedList.Mvc.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Helpers.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Mvc.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Optimization.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Razor.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Deployment.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Razor.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\WebGrease.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\PagedList.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\PagedList.Mvc.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Helpers.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Mvc.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Optimization.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.Razor.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Deployment.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\System.Web.WebPages.Razor.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Newtonsoft.Json.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Antlr3.Runtime.pdb
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.csproj.AssemblyReference.cache
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.csproj.CoreCompileInputs.cache
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.csproj.CopyComplete
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.dll
+G:\Tai lieu hutech\Thuc hanh Web\Tuan5_NguyenNgocThien\obj\Debug\Tuan5_NguyenNgocThien.pdb
